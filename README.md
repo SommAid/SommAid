@@ -9,6 +9,7 @@ Codewars author [Identify Best Planet](https://www.codewars.com/kata/6474b896438
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<img src="https://www.bing.com/ck/a?!&&p=fc38533679424280JmltdHM9MTcwNDg0NDgwMCZpZ3VpZD0zNDE2YTUxOC04NWY4LTY4MDgtMDZkMy1hYWE4ODQ4NjY5MjImaW5zaWQ9NTY0MQ&ptn=3&ver=2&hsh=3&fclid=3416a518-85f8-6808-06d3-aaa884866922&u=a1L2ltYWdlcy9zZWFyY2g_Rk9STT1JQVJSVEgmcT1sdWE&ntb=1" alt="lua" width="40" height="40"/>
 </p>
 <!--SommAid/SommAid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
