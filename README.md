@@ -1,6 +1,10 @@
 ### Aidan Sommer
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
+Enjoying mathematics and currently learning lua.
+
+Codewars author [Identify Best Planet](https://www.codewars.com/kata/6474b8964386b6795c143fd8/cpp)
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/> 
