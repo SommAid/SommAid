@@ -3,7 +3,7 @@
 
 Enjoying mathematics and currently learning lua.
 
-Codewars author [Identify Best Planet](https://www.codewars.com/kata/6474b8964386b6795c143fd8/cpp)
+Codewars author : [Identify Best Planet](https://www.codewars.com/kata/6474b8964386b6795c143fd8/cpp)
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
