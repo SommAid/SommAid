@@ -1,7 +1,7 @@
 ### Aidan Sommer
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-Enjoying mathematics and currently learning lua.
+Enjoy math and currently learning lua.
 
 Codewars author : [Identify Best Planet](https://www.codewars.com/kata/6474b8964386b6795c143fd8/cpp)
 
