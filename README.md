@@ -3,7 +3,7 @@
 
 Currenlty learning Lua and Robolox development.
 
-Codewars author, contributor, and user : [Identify Best Planet](https://www.codewars.com/kata/6474b8964386b6795c143fd8/cpp)
+Codewars author and contributor : [Identify Best Planet](https://www.codewars.com/kata/6474b8964386b6795c143fd8/cpp)
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
