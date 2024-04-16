@@ -1,7 +1,7 @@
 ### Aidan Sommer
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-Currenlty learning Lua and working on a Robolox game.
+Currently learning Lua and working on a Robolox game.
 
 Codewars author and contributor : [Identify Best Planet](https://www.codewars.com/kata/6474b8964386b6795c143fd8/cpp)
 
