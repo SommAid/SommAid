@@ -1,7 +1,7 @@
 ### Aidan Sommer
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-Currently learning Lua and working on a Robolox game.
+Currently learning different transformer architectures, with a specific focus on attention mechanisms and their application in Swin Transformers for computer vision.
 
 Codewars author and contributor : [Identify Best Planet](https://www.codewars.com/kata/6474b8964386b6795c143fd8/cpp)
 
